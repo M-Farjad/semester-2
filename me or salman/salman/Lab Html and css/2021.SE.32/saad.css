@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+    margin-top: 20px;
+}
+
+.first {
+    background-color: purple;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#second {
+    background-color: red;
+    color: white;
+    margin: auto;
+    padding: auto;
+    font-size: 35px;
+}
+
+.img {
+    width: 40%;
+}

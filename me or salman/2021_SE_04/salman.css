@@ -1,0 +1,62 @@
+
+        body{
+            background-image: url("Anthem.jpg");
+        }
+        /*
+        .container{
+            display: flex;
+        }
+         .box{
+            border: 2px solid crimson;
+            padding: 10px;
+            flex-wrap: wrap;
+            flex-flow: col;
+
+        } */
+        h1{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: crimson;
+            background-color: coral;
+            display: inline;
+        }
+
+        .para{
+                opacity: 0.8;
+                background-color: yellowgreen;
+                border: 2px dotted crimson;
+                padding: 50px   ;
+                border-radius: 50px;
+                margin: 10px;
+        }
+        /* span{
+            border: 2px dotted crimson;
+            display: inline;
+        } */
+        .heading{
+            border-radius: 55px;
+            padding: 21px ;
+            position: absolute;
+            margin-left: 510px;
+        }
+        #lastPara{
+            opacity: 0.5;
+            background-color: cadetblue;
+            padding: 16px;
+            border-radius: 55px;
+        }
+        .con{
+            opacity: 0.65;
+            background-color: aqua;
+            height: 155px;
+            border: solid violet;
+            display: flex;
+            padding: 6px ;
+            border-radius: 45px ;
+            margin: 29px;
+            color: solid pink;
+            align-content: center;
+            align-items: center;
+            justify-items: center;
+            text-align: center;
+        }
+

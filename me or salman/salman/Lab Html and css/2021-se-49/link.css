@@ -1,0 +1,38 @@
+        p{
+            background-color: rgb(245, 170, 78);
+            color: antiquewhite;
+            border: 2px solid ;
+            font-size: 20px;
+            border-color: aqua;
+            padding: 10px;
+            margin: 2px;
+        }
+        #pra1{
+            background-color: rgb(158, 153, 147);
+            color: rgb(247, 245, 241);
+            border: 2px solid ;
+            font-size: 20px;
+            border-color: rgb(205, 231, 36);
+            padding: 10px;
+            margin: 2px;
+        }
+        .classpra{
+            background-color: rgb(185, 243, 13);
+            color: rgb(22, 181, 225);
+            border: 2px solid ;
+            font-size: 20px;
+            border-color: rgb(0, 255, 251);
+            padding: 10px;
+            margin: 2px;
+        }
+        #bg-position{
+            background-color: white;
+            color: rgb(241, 205, 158);
+            border: 2px solid;
+          -image: url(C:\Users\DELL\Desktop\website pics\images (2).jfif);
+
+        
+            
+
+        }
+

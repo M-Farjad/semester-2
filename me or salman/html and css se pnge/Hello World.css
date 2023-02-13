@@ -1,0 +1,12 @@
+p{
+    background-color: bisque;
+    align-items: center;
+    
+}
+body{
+    background-image: url("\Arcane.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}

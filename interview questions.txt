@@ -1,0 +1,73 @@
+What do you understand the term CRUD to mean?
+
+	CRUD Meaning: CRUD is an acronym that comes from the world of computer
+ programming and refers to the four functions that are considered necessary to 
+implement a persistent
+ storage application: create, read, update and delete.
+
+
+What is your understanding of the term CSRF?
+
+Definition. Cross-Site Request Forgery (CSRF) is an attack that forces
+authenticated users to submit a request to a Web application against which
+they are currently authenticated.
+CSRF attacks exploit the trust a Web application has in an authenticated user.
+
+
+Do you understand how the project directory is structured in Django?
+
+When you create a Django project, the Django framework itself creates a root
+directory of the project with the project name on it. That contains some files and
+folder, which provide the very basic functionality to your 
+website and on that strong foundation you will be building your full scaled
+website.
+
+
+Could you explain what is meant by models in django?
+
+Django web applications access and manage data through Python objects referred to
+as models. Models define the structure of stored data, including the field types
+and possibly also their maximum size, default values, 
+selection list options, help text for documentation, label text for forms, etc.
+
+
+
+The Django template language¶
+This document explains the language syntax of the Django template system.
+If you’re looking for a more technical perspective on how it works and how
+to extend it, see The Django template language: for Python programmers.
+
+Django’s template language is designed to strike a balance between power and ease.
+It’s designed to feel comfortable to those used to working with HTML. If you have
+ any exposure to other text-based template languages,
+ such as Smarty or Jinja2, you should feel right at home with Django’s templates.
+	
+>>>State what is meant by views in Django.
+
+Django Views are one of the vital participants of MVT Structure of Django. As per
+Django Documentation, A view function is a Python function that takes a Web 
+request and returns a Web response. This response can be the HTML contents of a
+Web page, or a redirect, or a 404error, or an XML document, or an image, anything
+that a web browser can display. 
+
+>>>Django ORM>>>
+One of the most powerful features of Django is its Object-Relational Mapper (ORM),
+which enables you to interact with your database, like you would with SQL. In fact,
+Django's ORM is just a pythonical way to create SQL to query and manipulate your
+database and get results in a pythonic fashion. 
+
+>>>Could you outline what static files are used for and why they are critical in
+django?
+Websites generally need to serve additional files such as images, JavaScript, or
+ CSS. In Django, we refer to these files as “static files”. Django provides django.
+contrib.staticfiles to help you manage them.
+
+
+>>>url
+
+A clean, elegant URL scheme is an important detail in a high-quality web 
+application. Django lets you design URLs however you want, with no framework
+limitations.
+
+
+Could you briefly outline the inheritance styles found in Django?

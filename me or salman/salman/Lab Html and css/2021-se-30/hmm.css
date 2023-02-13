@@ -1,0 +1,31 @@
+body{	
+	background-image: url('dp.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed; 
+}
+
+h1
+{
+	color: white;
+	padding: 70px 60px;
+	font-size: 80px;
+}
+p{
+
+	color: white;
+	background-color: green;
+	font-size:  180%;
+}
+
+.fir{
+	font-size: 20px;
+	background-color: pink;
+}
+#first{
+	font-size: 20px;
+}
+#fi{
+	background-color: skyblue;
+	font-size: 20px;
+}

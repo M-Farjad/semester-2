@@ -1,0 +1,63 @@
+
+    body{
+            background-image: url(joker.jpg);
+            background-repeat: no-repeat;
+            
+            background-size: 2700px;
+        }
+        /*
+        .container
+            display: flex;
+        }
+         .box{
+            border: 2px solid crimson;
+            padding: 10px;
+            flex-wrap: wrap;
+            flex-flow: col;
+
+        } */
+    h1{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: crimson;
+            background-color: coral;
+            display: inline;
+        }
+
+    .para{
+                background-color: aqua;
+                border: 2px solid crimson;
+                opacity: 0.67;
+                padding: 50px   ;
+                border-radius: 50px;
+                margin: 10px;
+        }
+        /* span{
+            border: 2px dotted crimson;
+            display: inline;
+        } */
+    .hd{
+            border-radius: 50px;
+            padding: 20px ;
+            position: absolute;
+            margin-left: 500px;
+        }
+    #para1{
+            background-color: yellowgreen   ;
+            padding: 15px;
+            border-radius: 50px;
+        }
+    .con{
+     
+height: 45px;
+            border:2px solid green;
+            display: flex;
+padding: 5px ;
+            border-radius: 50px ;
+    margin: 30px;
+            color: solid pink;
+            align-content: center;
+            align-items: center;
+            justify-items: center;
+            text-align: center;
+
+}
